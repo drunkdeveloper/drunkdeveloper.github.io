@@ -1,9 +1,9 @@
 ---
-name: Summer Saison by Project Brew
+overskrift: Summer Saison by Project Brew
 logo: summersaison.png
 ---
 
-# {{ page.name }}
+# {{ page.overskrift }}
 
 Used this weekend to brew the Summer Saison All Grain kit from Project Brew. Very easy and comfortable brew. It feels like the mashing and sparging is more
 like it's supposed to be when you are dealing with 5 kilos of grain as opposed to 8 kilograms. It's less overflow during mashing, and no stuck sparge.
