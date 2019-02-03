@@ -4,6 +4,7 @@
 * Sofa
 * Lamps
 * Desk
+* Grainmill
 
 ## Brewing
 * Measure OG for CiderX2, Rødskjegg, Chimay
