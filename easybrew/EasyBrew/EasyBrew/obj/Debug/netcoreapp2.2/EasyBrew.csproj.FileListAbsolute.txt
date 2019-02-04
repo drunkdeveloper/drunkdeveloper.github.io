@@ -1,0 +1,3 @@
+C:\Users\Terje\drunkdeveloper.github.io\easybrew\EasyBrew\EasyBrew\obj\Debug\netcoreapp2.2\EasyBrew.csproj.CoreCompileInputs.cache
+C:\Users\Terje\drunkdeveloper.github.io\easybrew\EasyBrew\EasyBrew\obj\Debug\netcoreapp2.2\EasyBrew.AssemblyInfoInputs.cache
+C:\Users\Terje\drunkdeveloper.github.io\easybrew\EasyBrew\EasyBrew\obj\Debug\netcoreapp2.2\EasyBrew.AssemblyInfo.cs
