@@ -5,18 +5,16 @@ logo: rodskjegg.jpeg
 
 # {{ page.overskrift }}
 
-![Rødskjegg logo]({{ page.logo }})
-
-Messed up the OG reading, only have preboil SG and FG. Need to figure out how to calculate the OG from the SG Preboil volume(29L) and boil off.
+| ![Rødskjegg logo]({{ page.logo }}) | Messed up the OG reading, only have preboil SG and FG. Calculated OG from the SG preboil, preboil volume(29,5L) and post boil volume(25). |
 
 ## The numbers
 
 | Variable | Goal   | Achieved      | Comment
 |---       |---     |---            |---
-| OG       | 1.071  | 1075          | Calculated OG here, was 1069 preboil
+| OG       | 1.071  | 1081          | Calculated OG here, was 1069 preboil
 | FG       | 1.013  | 1023          | Not done yet, still hisses when I open the lid so it might be fermenting yet.
 | EBC      | 8.9    | ?             |
-| ABV(%)   | 7.6    | 6.83  0        | As of 19.02.2019
+| ABV(%)   | 7.6    | 7,61%         | As of 19.02.2019
 
 ## Log
 
