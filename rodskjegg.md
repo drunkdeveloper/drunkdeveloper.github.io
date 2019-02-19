@@ -1,6 +1,6 @@
 ---
 overskrift: Rødskjegg by Hogna Brygg
-logo: rødskjegg.jpeg
+logo: rodskjegg.jpeg
 ---
 
 # {{ page.overskrift }}
