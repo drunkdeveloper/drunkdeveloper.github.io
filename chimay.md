@@ -5,9 +5,7 @@ logo: chimay.jpeg
 
 # {{ page.overskrift }}
 
-![Picture of Blue Velvet of Chimay]({{ page.logo }})
-
-Been four weeks in the keg, pretty clear before Cold Crashing.
+| ![Picture of Blue Velvet of Chimay]({{ page.logo }}) | Been four weeks in the keg, pretty clear before Cold Crashing. |
 
 ## The numbers
 

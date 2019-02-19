@@ -5,11 +5,11 @@ logo: summersaison.png
 
 # {{ page.overskrift }}
 
-| ![Summer Saison Logo]({{ page.logo }}) | Used this weekend to brew the Summer Saison All Grain kit from Project Brew. Very easy and comfortable brew. It feels like the mashing and sparging is more like it's supposed to be when you are dealing with 5 kilos of grain as opposed to 8 kilograms. It's less overflow during mashing, and no stuck sparge.
+| ![Summer Saison Logo]({{ page.logo }}) | Used this weekend to brew the Summer Saison All Grain kit from Project Brew. Very easy and comfortable brew. It feels like the mashing and sparging is more like it's supposed to be when you are dealing with 5 kilos of grain as opposed to 8 kilograms. It's less overflow during mashing, and no stuck sparge. |
 
 Think I got the temperature about right in the fermentation vessel and I rehydrated and used both packs of yeast. Finished the brew just before midnight and placed it on top of my freezer since it should start fermenting at 25 &deg;. When I woke up today 14 hours later, the temperature was 28&deg;. And the airlock was bubbling a lot. Tried to get the temperature down during the day, and now it sits below 27&deg;. I'll try to lower the temperature gradually.
 
-I ended up with around 22.8 liters in the fermentation vessel with an OG slightly above target. |
+I ended up with around 22.8 liters in the fermentation vessel with an OG slightly above target.
 
 ## The numbers
 
