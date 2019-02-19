@@ -1,6 +1,6 @@
 ---
 overskrift: Blue Velvet of Chimay by Brewolution
-logo: summersaison.png
+logo: chimay.jpeg
 ---
 
 # {{ page.overskrift }}

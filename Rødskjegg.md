@@ -1,6 +1,6 @@
 ---
 overskrift: Rødskjegg by Hogna Brygg
-logo: summersaison.png
+logo: rødskjegg.jpeg
 ---
 
 # {{ page.overskrift }}
@@ -14,7 +14,7 @@ Messed up the OG reading, only have preboil SG and FG. Need to figure out how to
 | OG       | 1.071  | 1075          | Calculated OG here, was 1069 preboil
 | FG       | 1.013  | 1023          | Not done yet, still hisses when I open the lid so it might be fermenting yet.
 | EBC      | 8.9    | ?             |
-| ABV(%)   | 7.6    | 6.83          | As of 19.02.2019 
+| ABV(%)   | 7.6    | 6.83  0        | As of 19.02.2019 
 
 ## Log
 
