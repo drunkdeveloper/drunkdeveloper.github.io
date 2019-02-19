@@ -10,6 +10,8 @@
 
 ## TODO
 
+****Mental note**** easybrew should have an easy way to record the above for several beers currently in the loop.
+
 ## Purchase
 
 * Sofa

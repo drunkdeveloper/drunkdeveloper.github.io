@@ -23,17 +23,15 @@ I ended up with around 22.8 liters in the fermentation vessel with an OG slightl
 
 ## Log
 
-| Date          | Time      | Event                 | Comment                       |
-|---            |---        |---                    |---                            |
-| 2019/feb/02   | 17:00     | BrewStart             |                               |
-| 2019/feb/02   | 23:00     | BrewFinished          |                               |
-| 2019/feb/02   | 23:30     | FermentationStart     |                               |
-| 2019/feb/03   | 14:00     | Fermentation          | 28&deg;C, bubbling like crasy             |
-| 2019/feb/03   | 17:00     |                       | 26&deg;C                                  |
-| 2019/feb/05   | 17:00     |                       | 24.6&deg;C                                |
-| 2019/feb/19   | 17:00     | Measured FG           | 20&deg;C for the last week approximately  |
-
-****Mental note**** easybrew should have an easy way to record the above for several beers currently in the loop.
+| Date          | Time      | Event                 | Comment
+|---            |---        |---                    |---
+| 2019/feb/02   | 17:00     | BrewStart             |
+| 2019/feb/02   | 23:00     | BrewFinished          |
+| 2019/feb/02   | 23:30     | FermentationStart     |
+| 2019/feb/03   | 14:00     | Fermentation          | 28&deg;C, bubbling like crasy
+| 2019/feb/03   | 17:00     |                       | 26&deg;C
+| 2019/feb/05   | 17:00     |                       | 24.6&deg;C
+| 2019/feb/19   | 17:00     | Measured FG           | 20&deg;C for the last week approximately
 
 <img src="{{ page.logo }}" alt="drawing" width="300"/>
 
@@ -52,14 +50,14 @@ I ended up with around 22.8 liters in the fermentation vessel with an OG slightl
 
 ## Ingredients
 
-| Ingredient                              | Unit       | Amount      |       |
-|---                                    |---        |---        |---    |
-| Pilsner and Munich malt mix           | Kg          | 4.55      |       |
-| East Kent Golding                      | g          | 40          |       |
-| Styrian Golding                          | g         | 27          |       |
-| Orange peels                          | g          | 15          |       |
-| Simplicity  Candy Syrup               | g          | 910          |       |
-| Mangrove Jack's French Saison Ale M29 | packet      | 2          |       |
+| Ingredient                            | Unit       | Amount
+|---                                    |---         |---
+| Pilsner and Munich malt mix           | Kg         | 4.55
+| East Kent Golding                     | g          | 40
+| Styrian Golding                       | g          | 27
+| Orange peels                          | g          | 15
+| Simplicity  Candy Syrup               | g          | 910
+| Mangrove Jack's French Saison Ale M29 | packet     | 2
 
 ## Mash  
 
@@ -71,6 +69,7 @@ I ended up with around 22.8 liters in the fermentation vessel with an OG slightl
 ## Boil
 
 Boil for 90 minutes.  
+
 | Addition                  | Remaining boil time   |
 |---                        |---                    |
 | East Kent Golding         | 60                    |
