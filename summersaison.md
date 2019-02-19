@@ -5,6 +5,8 @@ logo: summersaison.png
 
 # {{ page.overskrift }}
 
+![Summer Saison Logo]({{ page.logo }})
+
 Used this weekend to brew the Summer Saison All Grain kit from Project Brew. Very easy and comfortable brew. It feels like the mashing and sparging is more
 like it's supposed to be when you are dealing with 5 kilos of grain as opposed to 8 kilograms. It's less overflow during mashing, and no stuck sparge.
 
@@ -33,7 +35,6 @@ I ended up with around 22.8 liters in the fermentation vessel with an OG slightl
 | 2019/feb/05   | 17:00     |                       | 24.6&deg;C
 | 2019/feb/19   | 17:00     | Measured FG           | 20&deg;C for the last week approximately
 
-<img src="{{ page.logo }}" alt="drawing" width="300"/>
 
 ---
 

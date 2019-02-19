@@ -5,6 +5,8 @@ logo: rodskjegg.jpeg
 
 # {{ page.overskrift }}
 
+![Rødskjegg logo]({{ page.logo }})
+
 Messed up the OG reading, only have preboil SG and FG. Need to figure out how to calculate the OG from the SG Preboil volume(29L) and boil off.
 
 ## The numbers
@@ -27,8 +29,6 @@ Messed up the OG reading, only have preboil SG and FG. Need to figure out how to
 | 2019/feb/03   | 17:00     |                       |
 | 2019/feb/05   | 17:00     |                       |
 | 2019/feb/19   | 14:00     | Measured FG           |
-
-<img src="{{ page.logo }}" alt="drawing" width="300"/>
 
 ---
 

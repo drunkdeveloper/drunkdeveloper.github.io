@@ -5,7 +5,7 @@ logo: chimay.jpeg
 
 # {{ page.overskrift }}
 
-![alt text]({{ page.logo }})
+![Picture of Blue Velvet of Chimay]({{ page.logo }})
 
 Been four weeks in the keg, pretty clear before Cold Crashing.
 
@@ -22,8 +22,8 @@ Been four weeks in the keg, pretty clear before Cold Crashing.
 
 | Date          | Time      | Event                 | Comment
 |---            |---        |---                    |---
-| 2019/jan/19   | 17:00     | BrewStart             |
-| 2019/jan/19   | 23:00     | BrewFinished          |
-| 2019/jan/19   | 23:30     | FermentationStart     |
+| 2019/jan/20   | 17:00     | BrewStart             |
+| 2019/jan/20   | 23:00     | BrewFinished          |
+| 2019/jan/20   | 23:30     | FermentationStart     |
 | 2019/feb/19   | 14:00     | Measured FG           |
 | 2019/feb/19   | 17:07     | Started Cold Crashing | Way to long in the fermenter, hope it doesn't matter much.
