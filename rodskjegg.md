@@ -20,13 +20,13 @@ Messed up the OG reading, only have preboil SG and FG. Need to figure out how to
 
 | Date          | Time      | Event                 | Comment
 |---            |---        |---                    |---
-| 2019/jan/18   | 17:00     | BrewStart             |
-| 2019/jan/18   | 23:00     | BrewFinished          |
-| 2019/jan/18   | 23:30     | FermentationStart     |
-| 2019/jan/18   | 14:00     | Fermentation          |
+| 2019/jan/19   | 17:00     | BrewStart             |
+| 2019/jan/19   | 23:00     | BrewFinished          |
+| 2019/jan/19   | 23:30     | FermentationStart     |
+| 2019/jan/19   | 14:00     | Fermentation          |
 | 2019/feb/03   | 17:00     |                       |
 | 2019/feb/05   | 17:00     |                       |
-| 2019/feb/19   | 17:00     | Measured FG           |
+| 2019/feb/19   | 14:00     | Measured FG           |
 
 <img src="{{ page.logo }}" alt="drawing" width="300"/>
 
