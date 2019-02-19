@@ -5,7 +5,7 @@ logo: chimay.jpeg
 
 # {{ page.overskrift }}
 
-![alt text][{{ page.logo }}]
+![alt text]({{ page.logo }})
 
 Been four weeks in the keg, pretty clear before Cold Crashing.
 
