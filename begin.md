@@ -6,11 +6,12 @@ oft: Overflow Thingy
 ---
 # The brewing routine
 
-## Checklist
+## Brewblockers
 
-* Connector for the chiller.
-* All Grain Kit with all ingredients present.
-* Fermenter with air lock
+* Assert.That(Glycol Chiller, Is.Connectable.To(cold water outlet));
+* Assert.That(All Grain Kit, Has.All(ingredients));
+* Assert.That(Fermenter, Exists);
+* Assert.That(StarSan, Exists);
 
 ## First things first
 

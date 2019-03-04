@@ -8,7 +8,7 @@ WORKDIR /src
 COPY ["EasyBrew/EasyBrew.csproj", "EasyBrew/"]
 RUN dotnet restore "EasyBrew/EasyBrew.csproj"
 COPY . .
-WORKDIR "/src/EasyBrew"
+WORKDIR "/src/EasyBrew/"
 RUN dotnet build "EasyBrew.csproj" -c Release -o /app
 
 FROM build AS publish

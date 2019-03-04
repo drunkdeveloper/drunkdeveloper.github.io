@@ -2,12 +2,13 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using EasyBrew.Recipe;
 
 namespace EasyBrew
 {
     public class BrewLog
     {
-        public Recipe Beer { get; set; }
+        public EasyBrew.Recipe.Recipe Recipe { get; set; }
         public DateTime StartedBrewing { get; set; }
         public DateTime FinishedBrewing { get; set; }
         public DateTime StartedFermenting { get; set; }
@@ -16,9 +17,6 @@ namespace EasyBrew
         public int OG { get; set; }
         public int FG { get; set; }
 
-        public BrewLog(Recipe beer)
-        {
-            Beer = beer ?? throw new ArgumentNullException(nameof(beer));
-        }
+        public BrewLog(EasyBrew.Recipe.Recipe recipe) => Recipe = recipe ?? throw new ArgumentNullException(nameof(recipe));
     }
 }
