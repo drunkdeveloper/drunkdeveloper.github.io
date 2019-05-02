@@ -13,23 +13,21 @@ ssed up the OG reading, only have preboil SG and FG. Calculated OG from the SG p
 | Variable | Goal   | Achieved      | Comment
 |---       |---     |---            |---
 | OG       | 1.071  | 1081          | Calculated OG here, was 1069 preboil
-| FG       | 1.013  | 1023          | Not done yet, still hisses when I open the lid so it might be fermenting yet.
+| FG       | 1.013  | 1023          | 1020, ved kegging, Not done yet, still hisses when I open the lid so it might be fermenting yet.
 | EBC      | 8.9    | ?             |
 | ABV(%)   | 7.6    | 7,61%         | As of 19.02.2019
 
 ## Log
 
-| Date          | Time      | Event                 | Comment
-|---            |---        |---                    |---
-| 2019/jan/19   | 17:00     | BrewStart             |
-| 2019/jan/19   | 23:00     | BrewFinished          |
-| 2019/jan/19   | 23:30     | FermentationStart     |
-| 2019/jan/19   | 14:00     | Fermentation          |
-| 2019/feb/03   | 17:00     |                       |
-| 2019/feb/05   | 17:00     |                       |
-| 2019/feb/19   | 14:00     | Measured FG           |
-| 2019/feb/19   | 19:07     | Started Cold Crashing |
-| 2019/mar/94   | 14:00     | Kegged           |
+| Date          | Time      | Event
+|---            |---        |---
+| 2019/jan/19   | 17:00     | BrewStart
+| 2019/jan/19   | 23:00     | BrewFinished
+| 2019/jan/19   | 23:30     | FermentationStart
+| 2019/jan/19   | 14:00     | Fermentation
+| 2019/feb/19   | 14:00     | Measured FG
+| 2019/feb/19   | 19:07     | Started Cold Crashing
+| 2019/mar/94   | 14:00     | Kegged
 
 ---
 

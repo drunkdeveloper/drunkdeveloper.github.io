@@ -13,12 +13,12 @@ I ended up with around 22.8 liters in the fermentation vessel with an OG slightl
 
 ## The numbers
 
-| Variable | Goal   | Achieved | Comment |
-|---       |---     |---       |---      |
+| Variable | Goal   | Achieved | Comment
+|---       |---     |---       |---
 | OG       | 1.056  | 1061     | ABV 2% higher than recipe.
-| FG       | 1.014  | 1004     |
-| EBC      | 8.9    |          |
-| ABV(%)   | 5.5    | 7.48%    |
+| FG       | 1.014  | 1004     | 1002 i fg ved kegging
+| EBC      | 8.9    |
+| ABV(%)   | 5.5    | 7.48%
 
 ## Log
 
@@ -31,11 +31,11 @@ I ended up with around 22.8 liters in the fermentation vessel with an OG slightl
 | 2019/feb/03   | 17:00     |                       | 26&deg;C
 | 2019/feb/05   | 17:00     |                       | 24.6&deg;C
 | 2019/feb/19   | 17:00     | Measured FG           | 20&deg;C for the last week approximately
-| 2019/feb/19   | 19:07     | Started Cold Crashing |
-| 2019/mar/94   | 14:00     | Kegged           |
+| 2019/feb/19   | 19:07     | Started Cold Crashing
+| 2019/mar/04   | 14:00     | Kegged
 
 ---
-
+ 
 1. Mash at 65&deg;C for 90 minutes  
 2. (Mash out at 77&deg;C for 10 minutes)  
 3. Boiltime 90 minutes  
