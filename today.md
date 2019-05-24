@@ -2,9 +2,9 @@
 
 ## Tapping av øl
 
-- Flytt speidelkar på pikerommet
-- Vask korneliusfatene
-- Vask hevert
+- Flytt speidelkar på pikerommet [*]
+- Vask korneliusfatene [*]
+- Vask hevert [*]
 
 ## Diverse
 
@@ -19,7 +19,7 @@
   - Vasken på kjøkkenet
   - Radiatorer
 - Elektriker
-  - Spotene på badet
+  - Spotene på badet [*]
 - Sofa
 - Belysning stue
 - Belysning soverom

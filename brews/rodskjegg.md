@@ -5,8 +5,7 @@ logo: rodskjegg.jpeg
 
 # {{ page.overskrift }}
 
-| ![Rødskjegg logo]({{ page.logo }}) | Me
-ssed up the OG reading, only have preboil SG and FG. Calculated OG from the SG preboil, preboil volume(29,5L) and post boil volume(25). |
+| ![Rodskjegg logo](rodskjegg.jpeg) | Messed up the OG reading, only have preboil SG and FG. Calculated OG from the SG preboil, preboil volume(29,5L) and post boil volume(25). |
 
 ## The numbers
 
