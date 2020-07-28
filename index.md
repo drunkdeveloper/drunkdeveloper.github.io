@@ -1,6 +1,3 @@
-# Shit
-I'm living in the country responsible for the murder of Muammar Gaddafi  
-and the destruction of Libya.
 
 ## Brews 2019
 
